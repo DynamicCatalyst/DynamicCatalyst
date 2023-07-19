@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DynamicCatalyst
-- 👀 I enjoy sovign problems and building stuff using programming
-- 🌱 I’m currently learning java 
+- 👀 I enjoy solving problems and building stuff using programming
 - 📫 feel free to drop amessage anytime
 
 <!---
